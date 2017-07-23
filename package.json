@@ -1,7 +1,7 @@
 {
     "name": "twitterBotOnRaspberyPi",
     "version": "0.0.1",
-    "private": true,
+    "private": "true",
     "dependencies": {
         "twit": "2.2.9"
     }
