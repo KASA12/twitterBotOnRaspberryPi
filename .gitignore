@@ -1,2 +1,5 @@
 #SECRET.jsonを除く
 SECRET.json
+
+#node_modulesを除く
+node_modules/*

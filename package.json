@@ -3,6 +3,7 @@
     "version": "0.0.1",
     "private": "true",
     "dependencies": {
-        "twit": "2.2.9"
+        "twit": "2.2.9",
+        "node-dash-button": "0.6.1"
     }
 }
