@@ -7,7 +7,7 @@ const kaeritamistr =
 ＞　おうちかえりたい　＜\n\
 ￣Y^Y^Y^Y^Y^Y^Y^Y^Y￣\n";
 
-dashButton(function(){
+dashButton('34:d2:70:02:c8:2b', function(){
     var date = new Date();
     var timeStr =
         date.getFullYear() + "/" + 
