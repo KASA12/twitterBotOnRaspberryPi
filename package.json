@@ -1,7 +1,7 @@
 {
-    "name": "twitterBotOnRaspberyPi",
+    "name": "twitterbot_on_raspberypi",
     "version": "0.0.1",
-    "private": "true",
+    "private": true,
     "dependencies": {
         "twit": "2.2.9",
         "node-dash-button": "0.6.1"
